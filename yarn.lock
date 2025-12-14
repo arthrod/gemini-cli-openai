@@ -976,10 +976,10 @@ has-flag@^4.0.0:
   resolved "https://registry.yarnpkg.com/has-flag/-/has-flag-4.0.0.tgz#944771fd9c81c81265c4d6941860da06bb59479b"
   integrity sha512-EykJT/Q1KjTWctppgIAgfSO0tKVuZUjhgMr17kqTumMl6Afv3EISleU7qZUzoXDFTAHTDC4NOoG/ZxU3EvlMPQ==
 
-hono@^4.8.3:
-  version "4.8.3"
-  resolved "https://registry.npmjs.org/hono/-/hono-4.8.3.tgz"
-  integrity sha512-jYZ6ZtfWjzBdh8H/0CIFfCBHaFL75k+KMzaM177hrWWm2TWL39YMYaJgB74uK/niRc866NMlH9B8uCvIo284WQ==
+hono@^4.10.6:
+  version "4.11.0"
+  resolved "https://registry.yarnpkg.com/hono/-/hono-4.11.0.tgz#02407c682775695eb051a6fda86059a5a0deea4a"
+  integrity sha512-Jg8uZzN2ul8/qlyid5FO8O624F3AK0wKtkgoeEON1qBum1rM1itYBxoMKu/1SPJC7F1+xlIZsJMmc4HHhJ1AWg==
 
 ignore@^5.2.0:
   version "5.3.2"
